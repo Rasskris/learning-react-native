@@ -1,0 +1,1 @@
+export { getDataForPicker } from './getDataForPicker';
